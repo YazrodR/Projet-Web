@@ -1,7 +1,7 @@
 <?php
   $dbhost = "localhost"; 
   
-  // Nom de la database (a créer)
+  // Nom de la database
   $dbname = "user";
   
   $dbuser = "root";
